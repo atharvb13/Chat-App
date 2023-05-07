@@ -23,7 +23,7 @@ const Login = () => {
     <div className="formContainer">
       <div className="formWrapper">
         <span className="logo">Rapid Chat</span>
-        <span className="title"><h3>Login</h3></span>
+        <span className="title"><h4>Login</h4></span>
         <form onSubmit={handleSubmit}>
           <input type="email" placeholder="email" />
           <input type="password" placeholder="password" />
