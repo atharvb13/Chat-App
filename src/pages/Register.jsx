@@ -58,7 +58,7 @@ const Register = () => {
       setLoading(false);
     }
   };
-
+  //  code for thr registeration page
   return (
     <div className="formContainer">
       <div className="formWrapper">
