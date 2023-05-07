@@ -1,4 +1,4 @@
-//importing required modules
+//import required modules
 import { doc, onSnapshot } from "firebase/firestore";
 import React, { useContext, useEffect, useState } from "react";
 import { AuthContext } from "../context/AuthContext";
