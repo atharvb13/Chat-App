@@ -6,6 +6,7 @@ import Messages from "./Messages";
 import Input from "./Input";
 import { ChatContext } from "../context/ChatContext";
 
+//Chat dashboard
 const Chat = () => {
   const { data } = useContext(ChatContext);
 
