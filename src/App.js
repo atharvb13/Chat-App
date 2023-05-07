@@ -16,7 +16,7 @@ function App() {
 
     return children
   };
-
+  //Implementing Routing for smooth transitions of pages
   return (
     <BrowserRouter>
       <Routes>
